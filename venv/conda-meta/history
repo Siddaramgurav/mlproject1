@@ -1,5 +1,5 @@
-==> 2024-06-30 18:49:03 <==
-# cmd: C:\Users\hp\anaconda3\Scripts\conda-script.py create -p C:\Users\hp\Desktop\real time projects\machine learning project\venv python==3.8 -y
+==> 2024-07-01 15:22:02 <==
+# cmd: C:\Users\hp\anaconda3\Scripts\conda-script.py create -p venv python==3.8 -y
 # conda version: 24.5.0
 +defaults/win-64::ca-certificates-2024.3.11-haa95532_0
 +defaults/win-64::openssl-1.1.1w-h2bbff1b_0
